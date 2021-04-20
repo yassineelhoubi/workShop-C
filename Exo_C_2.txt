@@ -1,0 +1,14 @@
+Exercice 5 :
+
+Écrire un programme en C pour avoir une fonction qui permet de trier (sort) un tableau qui contient les valeurs suivantes  : 7   88    23   8   1   3.44   100 .
+Et une autre fonction qui permet d’afficher ce tableau (showArray).
+
+
+Exercice 6 :
+
+Écrire un programme en C qui permet à l’utilisateur de saisir des entiers positifs. Une fois un nombre négatif est saisi le programme s'arrête en affichant la liste des entiers positifs précédents.
+ 
+
+Exercice 7 :
+
+Écrire un programme qui permet de remplir un tableau avec des flottants (floats), et créer ensuite une fonction(avec des paramètres) qui permet de chercher un élément dans dans ce tableau. L'élément à chercher est saisi par l’utilisateur.
